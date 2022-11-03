@@ -1,8 +1,9 @@
 ## Rewrote Project Profile page with React.js
 - Responsive layout across devices with Bootstrap, flex, and @Media Screen.
 - Add Sidebar Menu, the options show my current interests in projects.
-- Wrote with React, with reuseable components, Useroutes for routing.
+- Wrote with React, with reuseable components.
 - Seperate data and UI components for clear structure and easy maintaince. 
+- For easy deploy with github, now removed the routes, useState to manage showing data change.
 
 ### Home Page
 ![home](public/Home.png?raw=true "home")

@@ -21,17 +21,3 @@ function App() {
 }
 
 export default App;
-
-
-
-// const routesElement = useRoutes(routes);
-
-
-    // <Routes>
-    //   <Route path='/' element={<Layout />}>
-    //     <Route path="/Stared" element={<Star />} ></Route>
-    //     <Route path="/Visualization" element={<Visualization />} ></Route>
-    //     <Route path="/Fullstack" element={<FullstackList />} ></Route>
-    //     <Route path="/Tools" element={<Tools />} ></Route>
-    //   </Route>
-    // </Routes>
