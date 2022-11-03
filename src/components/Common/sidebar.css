@@ -1,0 +1,24 @@
+.sidebar_container{
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    height:100%;
+    text-align: center; 
+  /* z-index:-2  */
+}
+
+
+.sidebar-option {
+  width:100%;
+  padding:1.5rem 0px;
+  font-weight: 500;
+  cursor: pointer;
+  color: #464775;
+};
+
+.sidebar-option:hover{
+  color:white;
+  background-color: #464775;
+}
