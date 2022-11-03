@@ -1,7 +1,7 @@
 {
   "name": "io-page-app",
   "version": "0.1.0",
-  "homepage": "https://learningreac.github.io/io-page-app",
+  "homepage": "https://learningreac.github.io/io-page-app---noroutes",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
