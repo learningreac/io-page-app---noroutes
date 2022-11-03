@@ -1,3 +1,8 @@
+## For this version without routes
+- [Deployed with Github Page]( https://learningreac.github.io/io-page-app---noroutes/ )
+- Two repo are currently private: Annotation and Visual programming, Click them will redirect to home page.
+- Original wrote and planned as a [Single Page Application with routing](https://github.com/learningreac/io-page-spa---withroutes)  
+
 ## Rewrote Project Profile page with React.js
 - Responsive layout across devices with Bootstrap, flex, and @Media Screen.
 - Add Sidebar Menu, the options show my current interests in projects.

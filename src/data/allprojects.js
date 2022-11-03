@@ -37,7 +37,7 @@ export const allProjectsData = {
         {
             id: 5,
             name: "Data for Countries",
-            linkto: "https://github.com/learningreac/fullstack_open/tree/master/part2/Data_for_coutrie",
+            linkto: "https://github.com/learningreac/fullstack_open/tree/master/part2/Data_for_coutries",
             imgSrc: "https://raw.githubusercontent.com/learningreac/fullstack_open/master/part2/Data_for_coutries/public/data_for_countries.png",
             imgAlt: "anecdotes",
             text: ['Data fetched with Axios and Swr', 'Responsive interface with Bootstrap and Flex', 'Communicating with third-party API']
@@ -46,7 +46,7 @@ export const allProjectsData = {
             id: 6,
             name: "Annotation tool",
             linkto: "",
-            imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app/master/public/annotation_demo.gif",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app---noroutes/master/public/annotation_demo.gif",
             imgAlt: "annotation",
             text: ['Enable user to chose a bounding box', 'Dynamicly drawing a polygon', 'Edit polygon points after finish object']
 
@@ -76,7 +76,7 @@ export const allProjectsData = {
             id: 3,
             name: "Annotation tool",
             linkto: "",
-            imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app/master/public/annotation_demo.gif",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app---noroutes/master/public/annotation_demo.gif",
             imgAlt: "annotation",
             text: ['Enable user to chose a bounding box', 'Dynamicly drawing a polygon', 'Edit polygon points after finish object']
 
@@ -134,7 +134,7 @@ export const allProjectsData = {
         {
             id: 3,
             name: "Data for Countries",
-            linkto: "https://github.com/learningreac/fullstack_open/tree/master/part2/Data_for_coutrie",
+            linkto: "https://github.com/learningreac/fullstack_open/tree/master/part2/Data_for_coutries",
             imgSrc: "https://raw.githubusercontent.com/learningreac/fullstack_open/master/part2/Data_for_coutries/public/data_for_countries.png",
             imgAlt: "anecdotes",
             text: ['Data fetched with Axios and Swr', 'Responsive interface with Bootstrap and Flex', 'Communicating with third-party API']
@@ -154,7 +154,7 @@ export const allProjectsData = {
             linkto: "https://github.com/learningreac/chat",
             imgSrc: "https://raw.githubusercontent.com/learningreac/chat/master/public/imgs/Step6_Chat_page.png",
             imgAlt: "chat_spa",
-            text: ['Idea came from Book Single Page Application', 'Designd user data and msgs data table schema', 'Enable a backend JSON server for communication']
+            text: ['Idea came from Book Single Page Application', 'Designd user data and msgs data table schema', 'Enable a backend JSON server']
 
         },
         {
