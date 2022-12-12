@@ -183,9 +183,9 @@ export const allProjectsData = {
             id: 2,
             name: "Iceberg Hit Game",
             linkto: "https://github.com/learningreac/Coding-with-kids",
-            imgSrc: "https://github.com/learningreac/Coding-with-kids/blob/master/Iceberg_Hit/iceberg_hit_demo.gif",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app---noroutes/master/public/icebergHit.png",
             imgAlt: "iceberg",
-            text: ['Control the boat not to hit icebergs with keyboard', 'Wrote with pure JS and CSS', 'Animation with Css']
+            text: ['Control the boat not to hit icebergs', 'Wrote with pure JS and CSS', 'Animation with CSS']
 
         },
         {

@@ -37,4 +37,5 @@
 ### images 
 ![demo](public/annotation_demo.gif?raw=true "demo")
 ![5h-train](public/5h_train_demo2.gif?raw=true "5h-train-demo")
+![icebergHit](public/iceberg.gif?raw=true "icebergHit")
 ![iceberg](public/icebergHit.png?raw=true "iceberg")
