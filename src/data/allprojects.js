@@ -28,11 +28,12 @@ export const allProjectsData = {
         },
         {
             id: 4,
-            name: "Pre k Math Sheet Generator",
-            linkto: "https://github.com/learningreac/02-preK_projects",
-            imgSrc: "https://raw.githubusercontent.com/learningreac/02-preK_projects/master/PreK_Math/home_page.jpg",
-            imgAlt: "preKmath",
-            text: ["Wrote with Vue.js Options API", "User can Customize the numbers", "Planned: generate the sheet to Pdf file"]
+            name: "5-Hour-by-Train",
+            linkto: "",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app---noroutes/master/public/5h_train_demo2.gif",
+            imgAlt: "5h-train",
+            text: ['How far one can go by train in 5 hours in the US', 'Dijkstra algo to find the shortest path for graph', 'Knn to bind mouse move with nearest station']
+
         },
         {
             id: 5,
@@ -87,7 +88,7 @@ export const allProjectsData = {
             linkto: "",
             imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app---noroutes/master/public/5h_train_demo2.gif",
             imgAlt: "5h-train",
-            text: ['How far one can go by train in 5 hour', 'Dijkjsa to find the shortest path', 'K-means to bound mouse move point']
+            text: ['How far one can go by train in 5 hours in the US', 'Dijkstra algo to find the shortest path for graph', 'Knn to bind mouse move with nearest station']
 
         },
         {
@@ -180,11 +181,12 @@ export const allProjectsData = {
         },
         {
             id: 2,
-            name: "Pre k Math Sheet Generator",
-            linkto: "https://github.com/learningreac/02-preK_projects",
-            imgSrc: "https://raw.githubusercontent.com/learningreac/02-preK_projects/master/PreK_Math/home_page.jpg",
-            imgAlt: "preKmath",
-            text: ["Wrote with Vue.js Options API", "User can Customize the numbers", "Planned: generate the sheet to Pdf file"]
+            name: "Iceberg Hit Game",
+            linkto: "https://github.com/learningreac/Coding-with-kids",
+            imgSrc: "https://github.com/learningreac/Coding-with-kids/blob/master/Iceberg_Hit/iceberg_hit_demo.gif",
+            imgAlt: "iceberg",
+            text: ['Control the boat not to hit icebergs with keyboard', 'Wrote with pure JS and CSS', 'Animation with Css']
+
         },
         {
             id: 3,
@@ -194,6 +196,14 @@ export const allProjectsData = {
             imgAlt: "drawpad",
             text: ['Design the store structure', 'Use State Machine for mouse events', 'Render with React Canvas']
 
+        },
+        {
+            id: 4,
+            name: "Pre k Math Sheet Generator",
+            linkto: "https://github.com/learningreac/02-preK_projects",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/02-preK_projects/master/PreK_Math/home_page.jpg",
+            imgAlt: "preKmath",
+            text: ["Wrote with Vue.js Options API", "User can Customize the numbers", "Planned: generate the sheet to Pdf file"]
         },
     ]
 }
