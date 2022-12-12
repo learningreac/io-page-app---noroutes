@@ -83,10 +83,10 @@ export const allProjectsData = {
         },
         {
             id: 4,
-            name: "Draw Pad",
-            linkto: "https://github.com/learningreac/ipc2581_react2/tree/master/src/drawpad",
-            imgSrc: "https://raw.githubusercontent.com/learningreac/ipc2581_react2/master/imgs/rectangles.png",
-            imgAlt: "drawpad",
+            name: "5-Hour-Train",
+            linkto: "",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/train_mock/master/img/5h_train_demo2.gif?token=GHSAT0AAAAAABX4LCITBXWCJWMRXHEQGQKKY4WZVRA",
+            imgAlt: "5h-train",
             text: ['Design the store structure', 'Use State Machine for mouse events', 'Render with React Canvas']
 
         },
@@ -188,11 +188,11 @@ export const allProjectsData = {
         },
         {
             id: 3,
-            name: "Visual Programming",
-            linkto: "",
-            imgSrc: "https://raw.githubusercontent.com/learningreac/learningreac.github.io/master/img/nodeEditor3.png",
-            imgAlt: "node_editor",
-            text: ['Node Editor for solid modeling', 'User can either view samples or create new', 'Model changes real-time when values update']
+            name: "Draw Pad",
+            linkto: "https://github.com/learningreac/ipc2581_react2/tree/master/src/drawpad",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/ipc2581_react2/master/imgs/rectangles.png",
+            imgAlt: "drawpad",
+            text: ['Design the store structure', 'Use State Machine for mouse events', 'Render with React Canvas']
 
         },
     ]

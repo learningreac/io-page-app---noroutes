@@ -34,5 +34,6 @@
 - Header shrink size when scroll down / up
 - Working on deploy this SPA with Github Pages
 
-### images for private project
+### images 
 ![demo](public/annotation_demo.gif?raw=true "demo")
+![5h-train](public/5h_train_demo2.gif?raw=true "5h-train-demo")
