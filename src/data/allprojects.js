@@ -83,11 +83,11 @@ export const allProjectsData = {
         },
         {
             id: 4,
-            name: "5-Hour-Train",
+            name: "5-Hour-by-Train",
             linkto: "",
-            imgSrc: "https://raw.githubusercontent.com/learningreac/train_mock/master/img/5h_train_demo2.gif?token=GHSAT0AAAAAABX4LCITBXWCJWMRXHEQGQKKY4WZVRA",
+            imgSrc: "https://raw.githubusercontent.com/learningreac/io-page-app---noroutes/master/public/5h_train_demo2.gif",
             imgAlt: "5h-train",
-            text: ['Design the store structure', 'Use State Machine for mouse events', 'Render with React Canvas']
+            text: ['How far one can go by train in 5 hour', 'Dijkjsa to find the shortest path', 'K-means to bound mouse move point']
 
         },
         {
